@@ -1,0 +1,6 @@
+@MSKNDotNetBatch2.WebApi_HostAddress = http://localhost:5238
+
+GET {{MSKNDotNetBatch2.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
